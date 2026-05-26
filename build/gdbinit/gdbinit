@@ -1,0 +1,2 @@
+source /home/ibro/esp32-linux-cli/build/gdbinit/symbols
+source /home/ibro/esp32-linux-cli/build/gdbinit/connect
