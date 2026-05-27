@@ -113,6 +113,10 @@ ls /dev/ttyUSB* /dev/ttyACM*
 
 Try different USB cable or port.
 
+## 📹 Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
 ## Project Structure
 
 esp32-linux-cli/
